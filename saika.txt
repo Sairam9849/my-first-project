@@ -1,0 +1,2 @@
+mkdir saika.txt
+cd saika.txt
